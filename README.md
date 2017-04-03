@@ -2,10 +2,21 @@
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2016/17
 
-## Tematika
+## Vrednotenje podjetji na podlagi njihovih fundamentalnih podatkov
 
 Izbrali si boste temo, s katero se bo vaš projekt ukvarjal. Tukaj boste
 napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+
+### Tema:
+Za temo projekta sem si izbral vrednotenje podjetji na podlagi njihovih fundamentalnih podatkov. Predvsem se bom spraševal kakšna je povezava med določenimi finančnimi kazalniki ter rastjo cene delnice v prihodnosti. Ker prihodnje cene seveda ne znam napovedati, se bom osredotočil na podatke iz preteklosti.
+
+### Podatki:
+Podatke bom črpal iz različnih virov:
+
+* [Financial times screener](https://markets.ft.com/data/equities?expandedScreener=true)
+* [Morningstar](http://www.morningstar.com/)
+* [finviz](http://finviz.com/)
+* [Census](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
 
 ## Program
 
