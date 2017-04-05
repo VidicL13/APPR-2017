@@ -20,6 +20,7 @@ Podatke bom črpal iz različnih virov:
 * [Intrinio](http://blog.intrinio.com/modeling-financial-data-in-r-with-intrinio/)
 * [EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html)
 * [quantbros](https://www.youtube.com/watch?v=92zCRV3eQxw)
+* [quantopain](https://www.quantopian.com/data)
 
 
 ## Program
