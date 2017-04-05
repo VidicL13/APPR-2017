@@ -17,6 +17,7 @@ Podatke bom črpal iz različnih virov:
 * [Morningstar](http://www.morningstar.com/)
 * [finviz](http://finviz.com/)
 * [Census](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
+* [Intrinio](http://blog.intrinio.com/modeling-financial-data-in-r-with-intrinio/)
 
 ## Program
 
